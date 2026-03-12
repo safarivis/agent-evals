@@ -54,11 +54,13 @@ Also score:
 - `templates/run-scorecard-v2.tsv` — stronger score sheet with pass/fail, binary checks, and pairwise comparison
 - `templates/batch-review-template.md` — review template after each batch
 - `templates/blind-comparison-template.md` — minimal blind A/B judging template
+- `templates/blind-judge-sheet.md` — cleaner two-step blind judging sheet
 - `results/` — completed runs
 - `workflows/promotion-and-rollout.md` — how wins get promoted into live files, templates, and durable principles
 - `workflows/eval-upgrade-v2.md` — KISS upgrade for more objective evals
 - `workflows/batch-run-workflow.md` — recommended 3-experiment supervised batch process
 - `workflows/blind-comparison-workflow.md` — minimal blind judging workflow for important comparisons
+- `workflows/blind-comparison-v2.md` — cleaner two-step blind pack + judge + reveal workflow
 - `scripts/start-next-experiment.sh` — scaffold the next experiment result/log files
 - `scripts/start-batch-review.sh` — scaffold a batch review note
 - `scripts/start-blind-comparison.sh` — scaffold a blind comparison note
