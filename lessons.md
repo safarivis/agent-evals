@@ -77,3 +77,23 @@ Use this file to store durable lessons emerging from successful experiments.
 
 **Principle promotion:**
 - candidate for future promotion after repeat validation
+
+### 2026-03-12 — exp-006
+**Lesson:** when source conflict matters, explicit local-and-current-over-global guidance outperforms implied hierarchy.
+
+**Evidence:**
+- baseline-v2 total: 370
+- exp-006 total: 382
+- critical thinking: 41 -> 43
+- testability: 38 -> 40
+- task success: 44 -> 47
+- groundedness: 39 -> 44
+
+**Applied live to:**
+- `/home/ldp/_agent/agent.md`
+
+**Template promotion:**
+- not yet
+
+**Principle promotion:**
+- candidate for future promotion after repeat validation

@@ -1,0 +1,11 @@
+run_id	date	variant	task_id	critical_thinking	first_principles	kiss	incrementalism	testability	optimization_engine	task_success	clarity	groundedness	total	notes
+baseline-v2-001	2026-03-12	baseline-v2	task-001	4	4	4	4	3	3	4	4	3	33	Good routing exists, but conflict resolution between local cell context and global memory is still implicit.
+baseline-v2-001	2026-03-12	baseline-v2	task-002	4	4	4	4	4	3	4	4	4	35	Priority routing is stronger now, but local-vs-global scope selection is not stated explicitly.
+baseline-v2-001	2026-03-12	baseline-v2	task-003	5	5	4	5	4	3	4	4	4	38	Strong ambiguity handling and first-principles framing.
+baseline-v2-001	2026-03-12	baseline-v2	task-004	4	4	4	4	3	3	4	4	3	33	Local exception handling is directionally supported, but not explicitly encoded.
+baseline-v2-001	2026-03-12	baseline-v2	task-005	4	4	4	4	4	4	4	4	4	36	Promotion framework exists and supports reasonable judgment.
+baseline-v2-001	2026-03-12	baseline-v2	task-006	4	4	5	5	4	5	5	4	4	40	Safe sync policy and managed sections are already strong.
+baseline-v2-001	2026-03-12	baseline-v2	task-007	4	4	5	4	4	4	5	5	5	40	Bootstrap guidance is now easy to find and practical.
+baseline-v2-001	2026-03-12	baseline-v2	task-008	4	4	4	5	5	4	5	4	4	39	System already recognizes plateau risk and eval-set evolution.
+baseline-v2-001	2026-03-12	baseline-v2	task-009	4	4	5	4	3	3	4	5	4	36	KISS style is stronger, though concise nuance under risk can still improve.
+baseline-v2-001	2026-03-12	baseline-v2	task-010	4	4	5	5	4	5	5	4	4	40	Leverage-without-bloat behavior is strong.
