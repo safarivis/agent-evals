@@ -51,8 +51,10 @@ Also score:
 
 - `rubric.md` — 1-page scoring rubric
 - `templates/run-scorecard.tsv` — simple scoring sheet
+- `templates/run-scorecard-v2.tsv` — stronger score sheet with pass/fail, binary checks, and pairwise comparison
 - `results/` — completed runs
 - `workflows/promotion-and-rollout.md` — how wins get promoted into live files, templates, and durable principles
+- `workflows/eval-upgrade-v2.md` — KISS upgrade for more objective evals
 
 ## Process name
 

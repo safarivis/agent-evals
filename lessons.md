@@ -114,3 +114,24 @@ Use this file to store durable lessons emerging from successful experiments.
 
 **Principle promotion:**
 - candidate for future promotion after repeat validation
+
+### 2026-03-12 — exp-008
+**Lesson:** concise style works best under risk when it explicitly preserves only the critical caveats and avoids fake certainty.
+
+**Evidence:**
+- baseline-v3 total: 374
+- exp-008 total: 386
+- critical thinking: 42 -> 45
+- testability: 39 -> 42
+- task success: 46 -> 49
+- clarity: 41 -> 42
+- groundedness: 43 -> 44
+
+**Applied live to:**
+- `/home/ldp/_agent/memory/user.md`
+
+**Template promotion:**
+- `/home/ldp/_agent/templates/memory/user.md`
+
+**Principle promotion:**
+- `/home/ldp/_agent/taste/principles.md`
