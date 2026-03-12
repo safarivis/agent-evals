@@ -11,8 +11,16 @@ Use this project to test whether changes to:
 - `/home/ldp/_agent/memory/user.md`
 - `/home/ldp/_agent/memory/telos.md`
 - `/home/ldp/_agent/memory/context.md`
+- `/home/ldp/_agent/workspace/INDEX.md`
+- `/home/ldp/_agent/workspace/ACTIVE-CELLS.md`
+- relevant local cell files when routing/scope behavior is under test
 
 improve agent behavior.
+
+Important scope note:
+- this project primarily tunes the root `_agent` control files
+- routing, scope choice, and local-over-global behavior must now be evaluated more explicitly
+- principle promotion should happen only after repeated validation, not after a single promising batch
 
 ## Core eval frame
 
@@ -30,6 +38,13 @@ Also score:
 - Clarity
 - Groundedness
 
+And explicitly check where relevant:
+- governing scope choice
+- governing-scope-first answers
+- local-over-global preservation
+- answer-first behavior on high-risk tasks
+- preservation of only the critical caveats
+
 ## Suggested workflow
 
 1. Pick a baseline cell setup.
@@ -37,7 +52,9 @@ Also score:
 3. Change one file or one small rule.
 4. Re-run the same task set.
 5. Score both versions.
-6. Keep only changes that improve results without adding unjustified complexity.
+6. For routing-sensitive tasks, score scope choice explicitly.
+7. For high-risk concise tasks, score answer-first and critical-caveat preservation explicitly.
+8. Keep only changes that improve results without adding unjustified complexity.
 
 ## Best tuning order
 
@@ -55,6 +72,7 @@ Also score:
 - `templates/batch-review-template.md` — review template after each batch
 - `templates/blind-comparison-template.md` — minimal blind A/B judging template
 - `templates/blind-judge-sheet.md` — cleaner two-step blind judging sheet
+- `templates/eval-audit-template.md` — save eval-auditor results in a consistent structure
 - `results/` — completed runs
 - `workflows/promotion-and-rollout.md` — how wins get promoted into live files, templates, and durable principles
 - `workflows/eval-upgrade-v2.md` — KISS upgrade for more objective evals
@@ -75,7 +93,7 @@ Meaning:
 - tune `_agent` cells and core files
 - evaluate against principles and real tasks
 - keep only winning changes
-- promote durable lessons into live files, templates, and principles
+- promote durable lessons into live files, templates, and principles only when the evidence is strong enough
 
 ## Backup and portability
 
@@ -97,9 +115,19 @@ Recommended pattern:
 
 Keep the new version if:
 - total score is higher, or
-- it materially improves an important category like KISS, task success, groundedness, or first principles
+- it materially improves an important category like KISS, task success, groundedness, first principles, or scope/routing accuracy on relevant tasks
 
 Reject the new version if:
 - complexity increased without clear gain
 - task success or groundedness got worse
+- scope/routing got worse on relevant tasks
+- high-risk concise behavior got worse
 - the improvement is vague or untestable
+
+## Promotion caution
+
+Do not treat a single win as enough for principle-level promotion unless the evidence is clearly general.
+Prefer:
+- live-file promotion first
+- then template/workflow promotion
+- principle promotion only after repeated validation or clearly broader evidence
