@@ -17,7 +17,7 @@ Use this file to store durable lessons emerging from successful experiments.
 - `/home/ldp/_agent/agent.md`
 
 **Template promotion:**
-- not yet
+- `/home/ldp/_agent/templates/cell/agent.md`
 
 **Principle promotion:**
 - candidate for future promotion after repeat validation
