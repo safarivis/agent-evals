@@ -58,3 +58,22 @@ Use this file to store durable lessons emerging from successful experiments.
 
 **Principle promotion:**
 - candidate for future promotion after repeat validation
+
+### 2026-03-12 — exp-005
+**Lesson:** telos becomes more useful when it includes an explicit preference order for tradeoffs, not just high-level aims.
+
+**Evidence:**
+- exp-004 total: 370
+- exp-005 total: 373
+- critical thinking: 39 -> 40
+- optimization engine: 36 -> 37
+- task success: 46 -> 47
+
+**Applied live to:**
+- `/home/ldp/_agent/memory/telos.md`
+
+**Template promotion:**
+- `/home/ldp/_agent/templates/memory/telos.md`
+
+**Principle promotion:**
+- candidate for future promotion after repeat validation
