@@ -135,3 +135,21 @@ Use this file to store durable lessons emerging from successful experiments.
 
 **Principle promotion:**
 - `/home/ldp/_agent/taste/principles.md`
+
+### 2026-03-12 — exp-009
+**Lesson:** high-risk concise behavior is stronger when uncertainty preservation is anchored not only in style preferences but also in soul-level non-negotiables.
+
+**Evidence:**
+- baseline-v3-v2 total: 378
+- exp-009 total: 386
+- groundedness: 43 -> 46
+- pairwise winner: candidate 3, tie 7, baseline 0
+
+**Applied live to:**
+- `/home/ldp/_agent/memory/soul.md`
+
+**Template promotion:**
+- `/home/ldp/_agent/templates/memory/soul.md`
+
+**Principle promotion:**
+- candidate for future promotion after repeat validation
