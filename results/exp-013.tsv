@@ -1,0 +1,6 @@
+run_id	date	eval_set	variant	task_id	pass_fail	used_right_sources	respected_scope	avoided_generic_advice	preserved_local_context	defined_testable_next_step	pairwise_winner	critical_thinking	first_principles	kiss	incrementalism	testability	optimization_engine	task_success	clarity	groundedness	total	notes
+exp-013	2026-03-12	scope-addon-v1	agent-md-v8	task-011	pass	yes	yes	yes	yes	no	tie	5	4	4	4	4	3	5	4	5	38	No material change.
+exp-013	2026-03-12	scope-addon-v1	agent-md-v8	task-012	pass	yes	yes	yes	yes	no	tie	5	4	4	4	4	3	5	4	5	38	No material change.
+exp-013	2026-03-12	scope-addon-v1	agent-md-v8	task-013	pass	yes	yes	yes	yes	no	candidate	5	4	5	4	5	3	5	5	5	41	Explicit governing-scope-first structure improves mixed-scope conflict handling and clarity.
+exp-013	2026-03-12	scope-addon-v1	agent-md-v8	task-014	pass	yes	yes	yes	yes	no	candidate	4	4	5	4	4	3	5	5	5	39	Wrong-scope drift remains low and answer structure is cleaner.
+exp-013	2026-03-12	scope-addon-v1	agent-md-v8	task-015	pass	yes	yes	yes	yes	no	tie	5	4	4	5	5	4	5	4	5	41	No material change.

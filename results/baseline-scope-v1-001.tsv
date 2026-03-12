@@ -1,0 +1,6 @@
+run_id	date	eval_set	variant	task_id	pass_fail	used_right_sources	respected_scope	avoided_generic_advice	preserved_local_context	defined_testable_next_step	pairwise_winner	critical_thinking	first_principles	kiss	incrementalism	testability	optimization_engine	task_success	clarity	groundedness	total	notes
+baseline-scope-v1-001	2026-03-12	scope-addon-v1	baseline-scope-v1	task-011	pass	yes	yes	yes	yes	no	baseline	5	4	4	4	4	3	5	4	5	38	Current scope-decision rule already improves cell-specific prioritization.
+baseline-scope-v1-001	2026-03-12	scope-addon-v1	baseline-scope-v1	task-012	pass	yes	yes	yes	yes	no	baseline	5	4	4	4	4	3	5	4	5	38	Profile-cell routing is clear.
+baseline-scope-v1-001	2026-03-12	scope-addon-v1	baseline-scope-v1	task-013	pass	yes	yes	yes	yes	no	baseline	5	4	4	4	4	3	5	4	5	38	Mixed-scope conflict handling is good, but answer structure could separate governing scope from broader implications more explicitly.
+baseline-scope-v1-001	2026-03-12	scope-addon-v1	baseline-scope-v1	task-014	pass	yes	yes	yes	yes	no	baseline	4	4	5	4	4	3	5	5	5	39	Wrong-scope drift is reduced.
+baseline-scope-v1-001	2026-03-12	scope-addon-v1	baseline-scope-v1	task-015	pass	yes	yes	yes	yes	no	baseline	5	4	4	5	5	4	5	4	5	41	Promotion-vs-local-task separation is strong.
