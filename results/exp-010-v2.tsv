@@ -1,0 +1,11 @@
+run_id	date	eval_set	variant	task_id	pass_fail	used_right_sources	respected_scope	avoided_generic_advice	preserved_local_context	defined_testable_next_step	pairwise_winner	critical_thinking	first_principles	kiss	incrementalism	testability	optimization_engine	task_success	clarity	groundedness	total	notes
+exp-010	2026-03-12	harder-v3	agent-md-v5	task-001	pass	no	yes	yes	yes	no	candidate	5	4	5	4	4	3	5	5	5	40	Explicit concise-high-risk routing improves directness and keeps only critical caveats.
+exp-010	2026-03-12	harder-v3	agent-md-v5	task-002	pass	yes	yes	yes	yes	no	tie	5	4	4	4	4	3	5	4	5	38	No material change.
+exp-010	2026-03-12	harder-v3	agent-md-v5	task-003	pass	yes	yes	yes	yes	no	tie	5	4	4	4	5	3	5	4	5	39	No material change.
+exp-010	2026-03-12	harder-v3	agent-md-v5	task-004	pass	no	yes	yes	yes	no	candidate	5	4	5	4	4	3	5	5	5	40	KISS with necessary nuance is clearer and more actionable.
+exp-010	2026-03-12	harder-v3	agent-md-v5	task-005	pass	yes	yes	yes	yes	no	tie	4	4	4	4	4	4	4	4	4	36	No material change.
+exp-010	2026-03-12	harder-v3	agent-md-v5	task-006	pass	yes	yes	yes	yes	no	tie	4	4	5	5	4	5	5	4	4	40	No material change.
+exp-010	2026-03-12	harder-v3	agent-md-v5	task-007	pass	yes	yes	yes	yes	no	tie	4	4	5	4	4	4	5	5	5	40	No material change.
+exp-010	2026-03-12	harder-v3	agent-md-v5	task-008	pass	no	yes	yes	yes	yes	tie	4	4	4	5	5	4	5	4	4	39	No material change.
+exp-010	2026-03-12	harder-v3	agent-md-v5	task-009	pass	no	yes	yes	yes	no	candidate	5	4	5	4	4	3	5	5	5	40	Risk-calibrated concise style is reinforced at the routing layer too.
+exp-010	2026-03-12	harder-v3	agent-md-v5	task-010	pass	no	yes	yes	yes	no	tie	4	4	5	5	4	5	5	4	4	40	No material change.
