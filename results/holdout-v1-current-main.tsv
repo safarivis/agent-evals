@@ -1,0 +1,9 @@
+run_id	date	eval_set	variant	task_id	pass_fail	used_right_sources	respected_scope	avoided_generic_advice	preserved_local_context	defined_testable_next_step	pairwise_winner	critical_thinking	first_principles	kiss	incrementalism	testability	optimization_engine	task_success	clarity	groundedness	total	notes
+holdout-v1-current-main	2026-03-12	holdout-v1	current-main	task-001	pass	yes	yes	yes	yes	no	candidate	5	4	4	4	4	3	5	4	5	38	Current system explicitly prefers local/current context and mixed-scope discipline.
+holdout-v1-current-main	2026-03-12	holdout-v1	current-main	task-002	pass	yes	yes	yes	yes	no	candidate	5	4	4	4	4	3	5	4	5	38	Current routing and profile-cell guidance make this much clearer.
+holdout-v1-current-main	2026-03-12	holdout-v1	current-main	task-003	pass	no	yes	yes	yes	no	candidate	5	4	5	4	4	3	5	5	5	40	High-risk concise behavior is now reinforced across user, soul, taste, and routing layers.
+holdout-v1-current-main	2026-03-12	holdout-v1	current-main	task-004	pass	no	yes	yes	yes	no	candidate	5	4	4	5	5	4	5	4	4	40	Promotion threshold is now explicit and cleaner under weak evidence.
+holdout-v1-current-main	2026-03-12	holdout-v1	current-main	task-005	pass	yes	yes	yes	yes	no	candidate	5	4	4	4	4	3	5	4	5	38	Local-rule exception handling is explicit now.
+holdout-v1-current-main	2026-03-12	holdout-v1	current-main	task-006	pass	yes	yes	yes	yes	no	tie	4	4	4	4	3	3	4	4	4	34	No material change; this rule was already strong.
+holdout-v1-current-main	2026-03-12	holdout-v1	current-main	task-007	pass	yes	yes	yes	yes	no	candidate	5	4	5	4	4	4	5	5	5	41	Bootstrap docs and quick commands make this substantially stronger.
+holdout-v1-current-main	2026-03-12	holdout-v1	current-main	task-008	pass	no	yes	yes	yes	yes	candidate	5	4	5	5	5	4	5	4	4	41	Current system gives a clearer semi-automation boundary and supervision model.

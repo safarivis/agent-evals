@@ -1,0 +1,9 @@
+run_id	date	eval_set	variant	task_id	pass_fail	used_right_sources	respected_scope	avoided_generic_advice	preserved_local_context	defined_testable_next_step	pairwise_winner	critical_thinking	first_principles	kiss	incrementalism	testability	optimization_engine	task_success	clarity	groundedness	total	notes
+holdout-v1-baseline-d9b2fce	2026-03-12	holdout-v1	baseline-d9b2fce	task-001	pass	partial	partial	partial	partial	no	baseline	3	3	3	3	2	2	3	3	3	25	Baseline has basic routing, but lacks explicit locality, scope, and conflict rules.
+holdout-v1-baseline-d9b2fce	2026-03-12	holdout-v1	baseline-d9b2fce	task-002	partial	partial	partial	partial	partial	no	baseline	3	3	3	3	2	2	3	3	3	25	Profile-cell routing is not explicit in the old system.
+holdout-v1-baseline-d9b2fce	2026-03-12	holdout-v1	baseline-d9b2fce	task-003	pass	no	yes	partial	yes	no	baseline	3	3	3	3	2	2	3	3	3	25	Baseline lacks explicit concise-high-risk and uncertainty-preservation guidance.
+holdout-v1-baseline-d9b2fce	2026-03-12	holdout-v1	baseline-d9b2fce	task-004	partial	no	partial	partial	yes	no	baseline	3	3	3	3	2	2	3	3	3	25	Promotion thresholds are largely implicit.
+holdout-v1-baseline-d9b2fce	2026-03-12	holdout-v1	baseline-d9b2fce	task-005	partial	partial	partial	partial	partial	no	baseline	3	3	3	3	2	2	3	3	3	25	Local-rule exception handling is not explicit.
+holdout-v1-baseline-d9b2fce	2026-03-12	holdout-v1	baseline-d9b2fce	task-006	pass	yes	yes	yes	yes	no	baseline	4	4	4	4	3	3	4	4	4	34	Contact placement rule already existed and was fairly strong.
+holdout-v1-baseline-d9b2fce	2026-03-12	holdout-v1	baseline-d9b2fce	task-007	fail	no	partial	partial	partial	no	baseline	2	2	3	2	2	2	2	2	2	19	Old baseline predates the new bootstrap guides and quick command path.
+holdout-v1-baseline-d9b2fce	2026-03-12	holdout-v1	baseline-d9b2fce	task-008	pass	no	yes	yes	yes	yes	baseline	4	4	4	4	4	3	4	4	4	35	Baseline already discouraged premature automation, but lacked the newer semi-automation framing.
