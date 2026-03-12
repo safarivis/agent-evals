@@ -97,3 +97,20 @@ Use this file to store durable lessons emerging from successful experiments.
 
 **Principle promotion:**
 - candidate for future promotion after repeat validation
+
+### 2026-03-12 — exp-007
+**Lesson:** explicit local-exception handling is better than assuming root defaults always win.
+
+**Evidence:**
+- exp-006 total: 382
+- exp-007 total: 383
+- testability: 40 -> 41
+
+**Applied live to:**
+- `/home/ldp/_agent/agent.md`
+
+**Template promotion:**
+- `/home/ldp/_agent/templates/cell/agent.md`
+
+**Principle promotion:**
+- candidate for future promotion after repeat validation

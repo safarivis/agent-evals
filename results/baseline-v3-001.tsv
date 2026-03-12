@@ -1,0 +1,11 @@
+run_id	date	variant	task_id	critical_thinking	first_principles	kiss	incrementalism	testability	optimization_engine	task_success	clarity	groundedness	total	notes
+baseline-v3-001	2026-03-12	baseline-v3	task-001	4	4	4	4	3	3	4	4	4	34	System is concise and grounded, but high-risk concise advice still relies on implied calibration.
+baseline-v3-001	2026-03-12	baseline-v3	task-002	5	4	4	4	4	3	5	4	5	38	Source conflict handling is now strong.
+baseline-v3-001	2026-03-12	baseline-v3	task-003	5	4	4	4	5	3	5	4	5	39	Local exception handling is now strong.
+baseline-v3-001	2026-03-12	baseline-v3	task-004	4	4	4	4	3	3	4	4	4	34	KISS plus necessary nuance is decent, but still not explicitly encoded as a style rule.
+baseline-v3-001	2026-03-12	baseline-v3	task-005	4	4	4	4	4	4	4	4	4	36	Promotion judgment remains solid.
+baseline-v3-001	2026-03-12	baseline-v3	task-006	4	4	5	5	4	5	5	4	4	40	Sync discipline remains strong.
+baseline-v3-001	2026-03-12	baseline-v3	task-007	4	4	5	4	4	4	5	5	5	40	Bootstrap guidance remains strong.
+baseline-v3-001	2026-03-12	baseline-v3	task-008	4	4	4	5	5	4	5	4	4	39	Plateau handling remains strong.
+baseline-v3-001	2026-03-12	baseline-v3	task-009	4	4	4	4	3	3	4	4	4	34	Risk-calibrated concise style is still the clearest weak spot.
+baseline-v3-001	2026-03-12	baseline-v3	task-010	4	4	5	5	4	5	5	4	4	40	Leverage with restraint remains strong.
