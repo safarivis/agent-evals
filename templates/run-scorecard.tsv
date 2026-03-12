@@ -1,0 +1,5 @@
+run_id	date	variant	task_id	critical_thinking	first_principles	kiss	incrementalism	testability	optimization_engine	task_success	clarity	groundedness	total	notes
+baseline-001	2026-03-12	baseline	task-001											
+baseline-001	2026-03-12	baseline	task-002											
+exp-001	2026-03-12	agent-md-v1	task-001											
+exp-001	2026-03-12	agent-md-v1	task-002											

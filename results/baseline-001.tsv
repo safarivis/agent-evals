@@ -1,0 +1,11 @@
+run_id	date	variant	task_id	critical_thinking	first_principles	kiss	incrementalism	testability	optimization_engine	task_success	clarity	groundedness	total	notes
+baseline-001	2026-03-12	baseline	task-001	4	4	4	4	4	4	4	4	4	36	Business routing exists, but it can be more explicit about checking workspace context before giving advice.
+baseline-001	2026-03-12	baseline	task-002	4	4	4	4	3	3	4	4	3	33	Good directionally, but reply drafting could more strongly force context lookup before drafting.
+baseline-001	2026-03-12	baseline	task-003	4	5	4	4	4	3	4	4	4	36	Strong first-principles and ambiguity handling from the stated pillars and workflows.
+baseline-001	2026-03-12	baseline	task-004	4	4	5	5	4	3	5	5	4	39	KISS and anti-premature-automation guidance are already strong.
+baseline-001	2026-03-12	baseline	task-005	4	4	4	4	4	3	4	4	4	35	Tool discipline is supported indirectly, though not as directly in `_agent/agent.md` as in harness instructions.
+baseline-001	2026-03-12	baseline	task-006	3	3	4	3	2	2	4	4	4	29	User memory exists but style preferences are still light.
+baseline-001	2026-03-12	baseline	task-007	4	4	4	4	3	4	4	4	3	34	Context and telos exist, but routing to them for prioritization could be sharper.
+baseline-001	2026-03-12	baseline	task-008	4	4	4	5	3	5	4	4	4	37	Taste capture rule is clear and durable.
+baseline-001	2026-03-12	baseline	task-009	4	4	4	4	5	4	4	4	4	37	Success-definition and small-experiment thinking are well supported.
+baseline-001	2026-03-12	baseline	task-010	4	4	4	5	4	5	4	4	4	38	Optimization-engine behavior is already encoded clearly.
