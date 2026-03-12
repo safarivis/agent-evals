@@ -1,0 +1,11 @@
+run_id	date	variant	task_id	critical_thinking	first_principles	kiss	incrementalism	testability	optimization_engine	task_success	clarity	groundedness	total	notes
+exp-004	2026-03-12	context-md-v1	task-001	4	4	4	4	4	4	5	4	5	38	No material change; business routing remains strong.
+exp-004	2026-03-12	context-md-v1	task-002	4	4	4	4	3	3	5	5	5	37	No material change; reply drafting remains strong.
+exp-004	2026-03-12	context-md-v1	task-003	4	5	4	5	4	3	4	4	4	37	Current operating focus slightly improves incremental framing.
+exp-004	2026-03-12	context-md-v1	task-004	4	4	5	5	4	3	5	5	4	39	No material change.
+exp-004	2026-03-12	context-md-v1	task-005	4	4	4	4	4	3	4	4	4	35	No material change.
+exp-004	2026-03-12	context-md-v1	task-006	3	3	5	3	2	2	5	5	4	32	No material change from exp-003.
+exp-004	2026-03-12	context-md-v1	task-007	4	4	4	5	4	4	5	4	5	39	Sharper context priorities and operating focus improve prioritization quality and incrementalism.
+exp-004	2026-03-12	context-md-v1	task-008	4	4	4	5	3	5	4	4	4	37	No material change.
+exp-004	2026-03-12	context-md-v1	task-009	4	4	4	4	5	4	4	4	4	37	No material change.
+exp-004	2026-03-12	context-md-v1	task-010	4	4	4	5	4	5	5	4	4	39	Current operating focus helps reusable-process recommendations.
