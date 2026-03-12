@@ -1,0 +1,3 @@
+run_id	date	eval_set	variant	task_id	pass_fail	used_right_sources	respected_scope	avoided_generic_advice	preserved_local_context	defined_testable_next_step	pairwise_winner	critical_thinking	first_principles	kiss	incrementalism	testability	optimization_engine	task_success	clarity	groundedness	total	notes
+baseline-v3-001	2026-03-12	harder-v3	baseline-v3	task-001																		
+exp-008	2026-03-12	harder-v3	user-md-v2	task-001																		

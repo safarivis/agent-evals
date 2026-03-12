@@ -52,9 +52,13 @@ Also score:
 - `rubric.md` — 1-page scoring rubric
 - `templates/run-scorecard.tsv` — simple scoring sheet
 - `templates/run-scorecard-v2.tsv` — stronger score sheet with pass/fail, binary checks, and pairwise comparison
+- `templates/batch-review-template.md` — review template after each batch
 - `results/` — completed runs
 - `workflows/promotion-and-rollout.md` — how wins get promoted into live files, templates, and durable principles
 - `workflows/eval-upgrade-v2.md` — KISS upgrade for more objective evals
+- `workflows/batch-run-workflow.md` — recommended 3-experiment supervised batch process
+- `scripts/start-next-experiment.sh` — scaffold the next experiment result/log files
+- `scripts/start-batch-review.sh` — scaffold a batch review note
 
 ## Process name
 
